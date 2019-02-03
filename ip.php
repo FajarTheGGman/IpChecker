@@ -26,4 +26,7 @@ print_r($js);
 #Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.”
 
 #(QS. Al-Maidah: 38-39)
+  
+#Tinggal pakek doank apa susahnya sih 
+#Copyright© 2019 by Fajar Firdaus
 }
