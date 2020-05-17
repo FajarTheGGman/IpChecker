@@ -10,3 +10,6 @@
 3.cd IpChecker
 4.php ip.php
 </pre>
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
